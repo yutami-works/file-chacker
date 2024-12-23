@@ -1,3 +1,4 @@
+const fs = require('node:fs');
 const axios = require('axios');
 const cliProgress = require('cli-progress');
 const dayjs = require('dayjs');
